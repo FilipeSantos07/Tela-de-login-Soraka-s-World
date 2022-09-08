@@ -24,7 +24,8 @@ main {
 }
 .left-login h1 {
     font-size: 3vw;
-    color: #f7f464;
+    color: #faf746;
+    text-shadow: 1px 1px black;
 }
 .left-login span {
     color: rgb(126, 45, 163);
@@ -54,6 +55,7 @@ main {
     margin: 0;
     color: #fdfc8f;
     font-weight: 800;
+    text-shadow: 1px 1px black;
 }
 .textfield {
     display: flex;
@@ -91,9 +93,10 @@ main {
     padding: 16px 0;
     margin: 25px;
     text-transform: uppercase;
-    background: #fdfc8f;
+    background: #fdfb64;
     cursor: pointer;
     font-family: 'Fredoka One', cursive;
+    font-size: 12pt;
 }
 @media only screen and (max-width:950px) {
     .card-login {
