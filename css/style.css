@@ -93,6 +93,7 @@ main {
     text-transform: uppercase;
     background: #fdfc8f;
     cursor: pointer;
+    font-family: 'Fredoka One', cursive;
 }
 @media only screen and (max-width:950px) {
     .card-login {
