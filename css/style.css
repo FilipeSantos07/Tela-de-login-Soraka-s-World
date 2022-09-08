@@ -24,7 +24,7 @@ main {
 }
 .left-login h1 {
     font-size: 3vw;
-    color: #ffbb00;
+    color: #f7f464;
 }
 .left-login span {
     color: rgb(126, 45, 163);
@@ -91,9 +91,8 @@ main {
     padding: 16px 0;
     margin: 25px;
     text-transform: uppercase;
-    background: #ffbb00;
+    background: #fdfc8f;
     cursor: pointer;
-    box-shadow: 0 10px 40px -12px rgb(135, 81, 160);
 }
 @media only screen and (max-width:950px) {
     .card-login {
@@ -119,6 +118,6 @@ main {
         width:90%
     }
     .img-login {
-        width: 50vw;
+        width: 56vw;
     }
 }
