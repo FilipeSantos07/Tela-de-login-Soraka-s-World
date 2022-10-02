@@ -16,4 +16,4 @@ Criei essa tela de login inspirada na Soraka de League of Legends, escolhi cor p
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
